@@ -3,6 +3,13 @@
 A simple and elegant To-Do List application built using HTML, CSS, and JavaScript.
 This app helps users add, mark, and delete tasks — and it automatically saves everything in the browser using local storage, so your tasks stay even after refresh.
 
+## Screenshots
+
+
+![Screenshot1](https://github.com/SuryaveerSingh29/to-do-list/blob/main/to-do-list1.png)
+![Screenshot2](https://github.com/SuryaveerSingh29/to-do-list/blob/main/to-do-list2.png)
+![Screenshot3](https://github.com/SuryaveerSingh29/to-do-list/blob/main/to-do-list3.png)
+
 ## Features
 
 - Add tasks easily from the input box
@@ -62,3 +69,4 @@ This app helps users add, mark, and delete tasks — and it automatically saves 
 - Animations and transitions
 
 - Online sync with a database
+

@@ -22,7 +22,7 @@ function addtask() {
 }
 
 
-listContainer.addEventListener("click", function (e) {
+listContainer.addEventListener("click",(e)=> {
   if (e.target.tagName === "LI") {
     e.target.classList.toggle("checked");
     saveData()
